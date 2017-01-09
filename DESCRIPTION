@@ -3,7 +3,7 @@ Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
 Author: Sam Albers
-Maintainer: sam.albers@gmail.com
+Maintainer: Sam Albers <sam.albers@gmail.com>
 Description: Function useful to me
 License: What license is it under?
 LazyData: TRUE

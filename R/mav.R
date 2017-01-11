@@ -1,5 +1,6 @@
 #' @title Moving average over a continuous variable
 #' @description Apply a moving average over a variable defaulting to a window of 5
+#' @export
 #'
 #' @param x Continuous variable over which to apply the moving average
 #' @param n number of observation over which to take the moving average

@@ -1,5 +1,6 @@
 #' @title Designation of the water year
 #' @description Display water year
+#' @export
 #'
 #' @param dates A vector of dates with actual year
 #' @param start_month Month in which the year starts (defaults to October)

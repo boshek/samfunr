@@ -2,8 +2,8 @@
 #' @description This function is meant to import raw cnv files into an R data frame.
 #' @export
 #'
-#' @param autoname Should the function attempt to extract the names of the variables from raw data or should they be left blank and specified by the user using colnames(). Defaults to TRUE
-#' @param recursive Should the function look into sub-folders of the current folder.
+#' @param autoname Should the function attempt to extract the names of the variables from raw data or should they be left blank and specified by the user using colnames()? Defaults to TRUE
+#' @param recursive Should the function look into sub-folders of the current folder?
 #'
 #' @return A single dataframe containing all the cast dale and a label column indicating the filename of the .cnv file
 

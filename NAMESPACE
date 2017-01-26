@@ -2,5 +2,6 @@
 
 export(CorMatrixCustom)
 export(mav)
+export(read_seabird)
 export(se)
 export(wtr_yr)

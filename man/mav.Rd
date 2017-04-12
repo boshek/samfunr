@@ -20,4 +20,3 @@ The moving (or rolling) average of x over the n window
 \description{
 Apply a moving average over a variable defaulting to a window of 5
 }
-

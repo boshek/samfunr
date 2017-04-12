@@ -19,4 +19,3 @@ the variance of the sample is calculate with na.rm=TRUE
 x <- 1:10
 se(x=x)
 }
-

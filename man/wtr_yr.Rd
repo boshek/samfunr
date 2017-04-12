@@ -25,4 +25,3 @@ date <- seq(as.Date("1910/1/1"), as.Date("1912/1/1"), "days")
 wtr_yr_date <- wtr_yr(dates=date, start_month=10)
 data.frame(wtr_yr_date,date)
 }
-

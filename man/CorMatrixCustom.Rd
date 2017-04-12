@@ -17,4 +17,3 @@ CorMatrixCustom(hy.Fish[hy.Fish$Lake=="Arrow", c(3:ncol(hy.Fish))],
 yvar=as.numeric(hy.Fish[hy.Fish$Lake=="Arrow",]$Year),
 method="spearman")
 }
-

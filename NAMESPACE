@@ -3,6 +3,6 @@
 export(CorMatrixCustom)
 export(ll2utm)
 export(mav)
-export(read_seabird)
+export(pause)
 export(se)
 export(wtr_yr)
